@@ -1,7 +1,5 @@
 # Weratedogs-twitter-analysis
 
-## INTRODUCTION
-
 This project's aim is to gather data from the Weratedogs Twitter page to create analysis about the tweets and the predicted dog’s breed.
 
 The data wrangling process follows the following 3 steps:
